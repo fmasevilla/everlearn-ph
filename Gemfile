@@ -86,9 +86,9 @@ gem "paperclip", "~> 6.0.0"
 gem 'simple_form'
 gem 'country_select'
 
-gem "trailblazer"
-gem "trailblazer-rails" # if you are in rails.
-gem "trailblazer-cells"
+# gem "trailblazer"
+# gem "trailblazer-rails" # if you are in rails.
+# gem "trailblazer-cells"
 
 gem 'haml'
 gem "haml-rails", "~> 1.0"
